@@ -4,4 +4,8 @@ Este repositório faz parte de um projeto para a Digital Innovation One (DIO), l
 
 _Obs: O projeto me permitia alterar a aparência e padrões da interface do Netflix para um projeto de minha escolha e personalização. Mesmo alterando o projeto original foram utilizados os mesmos conceitos._
 
+O resultado do projeto pode ser visto em https://pagina-netflix.jayhdl.repl.co/
+
+
+
 > Status do projeto: Concluído ✔️
